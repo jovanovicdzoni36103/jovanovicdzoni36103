@@ -1,48 +1,34 @@
-# 👋 Hi, I’m @jovanovicdzoni36103
+# Nikola Jovanović
+**Webflow Developer & Frontend Engineer** — Belgrade, Serbia
 
-Hey there, I’m Nikola Jovanović – Webflow developer, Figma nerd, and full-time curious human from Belgrade, Serbia. I’m currently a 3rd-year IT student, learning, building, and occasionally breaking things (but only to rebuild them better 😎).
-
----
-
-## 👀 I’m interested in ...
-- Building cool websites with Webflow (Client-First gang 🤘)
-- Making sliders slide and animations dance (Swiper.js, GSAP, you name it)
-- Leveling up my JavaScript game
-- Teaming up with creative minds for freelance gigs, internships, or just fun experiments!
+I don't study web development. I build it. Webflow, JavaScript, GSAP, n8n — picked up by shipping real things. Currently embedded in a live AI automation agency, learning how workflows actually behave in production.
 
 ---
 
-## 🌱 I’m currently learning ...
-- **The Complete JavaScript Course 2025** by Jonas Schmedtmann (Udemy – shoutout to the GOAT 🐐)
-- Integrating JS into Webflow like a mad scientist
-- TypeScript & advanced animations (coming soon to a repo near you...)
+## What I build
+
+| Project | Stack | Link |
+|---|---|---|
+| TheGrowth | Webflow, JS, Swiper.js | [Live](https://vezba---2-72defa.webflow.io) |
+| Tic Tac Toe AI | Webflow, JS, Minimax | [Live](https://klonovi.webflow.io/x-o-game) |
+| Wedding Invitation | Webflow, JS, Email Automation | [Live](https://pozivnica-za-svadbu-slobodan-ivana.webflow.io) |
+| Invoice Generator | HTML, CSS, JS | [Live](https://nikola-jovanovic-guess-my-number.webflow.io/generator-faktura) |
+| Website Cost Calculator | JS, CSS, Timeline UI | [Live](https://kalkulator-168330.webflow.io) |
+| Guess My Number | JavaScript | [Live](https://nikola-jovanovic-guess-my-number.webflow.io) |
 
 ---
 
-## 💞️ I’m looking to collaborate on ...
-- Webflow projects (landing pages, portfolios, animations, CMS magic)
-- Anything that needs a frontend glow-up
-- Mentorships, internships, hackathons – I’m here to grow and help others grow 🌱
+## Stack
+
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat&logo=webflow&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 📫 How to reach me ...
-- 📧 Email: nikola.jovanovic.mef@gmail.com  
-- 💼 LinkedIn: [Nikola Jovanović](https://www.linkedin.com/in/webflow-nikola/)  
-- 🧠 GitHub: [@jovanovicdzoni36103](https://github.com/jovanovicdzoni36103)  
-- 💬 Discord: #dzoni36103  
-- 🌍 Location: Belgrade or Remote
+## Currently learning
+- n8n automation and AI agent workflows in production
+- - Frontend + AI integration
+  - - Building things that are actually hard
+   
+    - ---
 
----
-
-## 😄 Pronouns:
-He/Him
-
----
-
-## ⚡ Fun fact:
-I once built a Webflow calculator that tells you **how many bags you can buy with your budget**, complete with a custom cursor and 24/7 real-time updates... because why not? 😅
-
----
-
-> 🎯 Let’s create awesome things together. I bring the Webflow, you bring the vibes!
+    📫 nikola.jovanovic.mef@gmail.com
