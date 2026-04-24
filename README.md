@@ -26,9 +26,9 @@ I don't study web development. I build it. Webflow, JavaScript, GSAP, n8n — pi
 
 ## Currently learning
 - n8n automation and AI agent workflows in production
-- - Frontend + AI integration
-  - - Building things that are actually hard
-   
-    - ---
+- Frontend + AI integration
+- Building things that are actually hard
 
-    📫 nikola.jovanovic.mef@gmail.com
+---
+
+📫 nikola.jovanovic.mef@gmail.com
