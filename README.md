@@ -1,7 +1,17 @@
 # Nikola Jovanović
-**Webflow Developer & Frontend Engineer** — Belgrade, Serbia
+**Junior Frontend Developer & Automation Engineer** — Belgrade, Serbia
 
-I don't study web development. I build it. Webflow, JavaScript, GSAP, n8n — picked up by shipping real things. Currently embedded in a live AI automation agency, learning how workflows actually behave in production.
+BSc in Information Technologies, MEF Faculty Belgrade, 2022–2026, GPA 8.42/10. Thesis: digital transformation of business processes through no-code automation, built as a working case study on the n8n platform.
+
+I learned this by shipping rather than by reading about it: client Webflow sites, animation-heavy interfaces with GSAP, and JavaScript projects where the logic mattered more than the visuals.
+
+**Open to junior, internship and graduate roles — remote or Belgrade.**
+
+Portfolio: https://dzoni-portfolio.webflow.io
+
+LinkedIn: https://www.linkedin.com/in/webflow-nikola
+
+Email: nikola.jovanovic.mef@gmail.com
 
 ---
 
@@ -15,6 +25,7 @@ I don't study web development. I build it. Webflow, JavaScript, GSAP, n8n — pi
 | Invoice Generator | HTML, CSS, JS | [Live](https://nikola-jovanovic-guess-my-number.webflow.io/generator-faktura) |
 | Website Cost Calculator | JS, CSS, Timeline UI | [Live](https://kalkulator-168330.webflow.io) |
 | Guess My Number | JavaScript | [Live](https://nikola-jovanovic-guess-my-number.webflow.io) |
+| Finance Portfolio Tracker | Google Apps Script, NBS API, Drive triggers | private, demo on request |
 
 ---
 
@@ -32,3 +43,36 @@ I don't study web development. I build it. Webflow, JavaScript, GSAP, n8n — pi
 ---
 
 📫 nikola.jovanovic.mef@gmail.com
+
+
+---
+
+## Selected work in detail
+
+**Finance Portfolio Tracker** — Google Apps Script calls the National Bank of Serbia API to fetch the historical EUR/USD/RSD rate for each transaction date, then locks those values so past records never drift. Time-based triggers create a new Drive folder on the 1st of every month; drop a statement or receipt into it and the script parses the data and refreshes the central metrics sheet.
+
+**Tic Tac Toe AI** — Minimax search across the full game tree, so the computer genuinely cannot be beaten. Vanilla JavaScript, embedded in Webflow.
+
+**Website Cost Calculator** — multi-step input, real-time price calculation and a generated project timeline across graphic design, web design, frontend build and testing. Built as a sales tool for agencies.
+
+**Wedding Invitation** — event site with an RSVP form wired into an automated email confirmation flow for guests and organisers.
+
+---
+
+## Education and certificates
+
+BSc Information Technologies — MEF Faculty Belgrade, 2022–2026, GPA 8.42/10
+
+English C1 — Akademija Oxford, certified 2022
+
+Digital Marketing — Youth Office of the City of Belgrade
+
+Entrepreneurship basics — Development Agency of Serbia, 2021
+
+Courses: JavaScript by Jonas Schmedtmann, Joseph Berry Awwwards Webflow, Cysecor Webflow
+
+---
+
+## Also
+
+Alongside my studies I ran the short-form video brand shortformcuts and coordinated weekly shift planning for a Belgrade cafe. Not software, but it is where the work ethic came from.
