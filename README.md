@@ -6,24 +6,24 @@ Right now I'm looking for an internship or a junior role. What I want out of it 
 
 ## What I work with
 
-JavaScript, HTML and CSS. Webflow for building sites, with GSAP and Swiper.js for the moving parts. n8n, Make and Google Apps Script for automation and connecting APIs. Git.
+JavaScript, HTML and CSS. Webflow for building sites, Swiper.js for sliders, jsPDF when something needs to come out as a file. Google Apps Script for automation and calling APIs. Git.
 
-That list is short on purpose. It is what I have actually used on something that shipped.
+That list is short on purpose. GSAP and Lenis are on my [portfolio site](https://dzoni-portfolio.webflow.io) rather than in any repo here, so I have left them out of the list. n8n I know from my thesis, which was a working case study and not a production system.
 
 ## Things I've built
 
 | Project | What it is | Built with |
 |---|---|---|
 | [Website Cost Calculator](https://github.com/jovanovicdzoni36103/cost-calculator) | Multi step form that estimates a project price and generates a delivery timeline across real working days. [Live](https://kalkulator-168330.webflow.io) | JavaScript, Webflow |
-| [Invoice Generator](https://github.com/jovanovicdzoni36103/invoice-generator) | Pick services, get a formatted invoice with a unique reference number. No backend. [Live](https://nikola-jovanovic-guess-my-number.webflow.io/generator-faktura) | JavaScript, HTML, CSS |
+| [Invoice Generator](https://github.com/jovanovicdzoni36103/invoice-generator) | Pick services, get a PDF invoice with a unique reference number. No backend. [Live](https://nikola-jovanovic-guess-my-number.webflow.io/generator-faktura) | JavaScript, jsPDF |
 | [Tic Tac Toe](https://github.com/jovanovicdzoni36103/tictactoe-js) | Game against a bot that wins, blocks, or plays random. Beatable, and the README explains why. [Live](https://klonovi.webflow.io/x-o-game) | JavaScript |
-| [TheGrowth](https://github.com/jovanovicdzoni36103/thegrowth-website) | Agency landing page with an infinite carousel that loops with no visible jump and counters that fire on scroll. [Live](https://vezba---2-72defa.webflow.io) | Webflow, JavaScript, Swiper.js |
+| [Animation Practice](https://github.com/jovanovicdzoni36103/webflow-animation-practice) | Rebuild of a landing page template in Webflow, to practise an infinite carousel, a marquee and counters that fire on scroll. Template copy, my JavaScript. [Live](https://vezba---2-72defa.webflow.io) | Webflow, JavaScript, Swiper.js |
 | [Wedding Invitation](https://github.com/jovanovicdzoni36103/wedding-invitation) | Invitation with an RSVP form, built for a real wedding. [Live](https://pozivnica-za-svadbu-slobodan-ivana.webflow.io) | Webflow, JavaScript |
 | [Guess My Number](https://github.com/jovanovicdzoni36103/guess-my-number) | Course project. Where I started with the DOM. [Live](https://nikola-jovanovic-guess-my-number.webflow.io) | JavaScript |
 
 One more that is not here: a portfolio tracker I wrote in Google Apps Script that pulls historical exchange rates from the National Bank of Serbia API and locks them per transaction date, so old records never drift when rates move. It runs on my own finances, so the repo stays private. I can walk through the code in an interview.
 
-## What I'm reading in these repos
+## A note on the Webflow projects
 
 The Webflow projects were laid out visually in Webflow. The JavaScript in each repo is mine, written by hand. I would rather say that plainly than let the repo imply I hand coded the markup.
 
@@ -49,4 +49,4 @@ Between 2022 and 2023 I ran a short-form video brand called ShortFormCuts, doing
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/webflow-nikola) · [Portfolio](https://dzoni-portfolio.webflow.io) · nikola.jovanovic.mef@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nikola-jovanovic-dev) · [Portfolio](https://dzoni-portfolio.webflow.io) · nikola.jovanovic.mef@gmail.com
