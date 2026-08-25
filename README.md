@@ -1,78 +1,52 @@
-# Nikola Jovanović
-**Junior Frontend Developer & Automation Engineer** — Belgrade, Serbia
+# Hi, I'm Nikola
 
-BSc in Information Technologies, MEF Faculty Belgrade, 2022–2026, GPA 8.42/10. Thesis: digital transformation of business processes through no-code automation, built as a working case study on the n8n platform.
+I finished my IT degree in Belgrade this summer. I build things for the web, mostly with JavaScript, and the part I like most is when separate tools start talking to each other.
 
-I learned this by shipping rather than by reading about it: client Webflow sites, animation-heavy interfaces with GSAP, and JavaScript projects where the logic mattered more than the visuals.
+Right now I'm looking for an internship or a junior role. What I want out of it is straightforward: real work, people around me who are better than I am, and code that somebody actually depends on.
 
-**Open to junior, internship and graduate roles — remote or Belgrade.**
+## What I work with
 
-Portfolio: https://dzoni-portfolio.webflow.io
+JavaScript, HTML and CSS. Webflow for building sites, with GSAP and Swiper.js for the moving parts. n8n, Make and Google Apps Script for automation and connecting APIs. Git.
 
-LinkedIn: https://www.linkedin.com/in/webflow-nikola
+That list is short on purpose. It is what I have actually used on something that shipped.
 
-Email: nikola.jovanovic.mef@gmail.com
+## Things I've built
 
----
-
-## What I build
-
-| Project | Stack | Link |
+| Project | What it is | Built with |
 |---|---|---|
-| TheGrowth | Webflow, JS, Swiper.js | [Live](https://vezba---2-72defa.webflow.io) |
-| Tic Tac Toe AI | Webflow, JS, Minimax | [Live](https://klonovi.webflow.io/x-o-game) |
-| Wedding Invitation | Webflow, JS, Email Automation | [Live](https://pozivnica-za-svadbu-slobodan-ivana.webflow.io) |
-| Invoice Generator | HTML, CSS, JS | [Live](https://nikola-jovanovic-guess-my-number.webflow.io/generator-faktura) |
-| Website Cost Calculator | JS, CSS, Timeline UI | [Live](https://kalkulator-168330.webflow.io) |
-| Guess My Number | JavaScript | [Live](https://nikola-jovanovic-guess-my-number.webflow.io) |
-| Finance Portfolio Tracker | Google Apps Script, NBS API, Drive triggers | private, demo on request |
+| [Website Cost Calculator](https://github.com/jovanovicdzoni36103/cost-calculator) | Multi step form that estimates a project price and generates a delivery timeline across real working days. [Live](https://kalkulator-168330.webflow.io) | JavaScript, Webflow |
+| [Invoice Generator](https://github.com/jovanovicdzoni36103/invoice-generator) | Pick services, get a formatted invoice with a unique reference number. No backend. [Live](https://nikola-jovanovic-guess-my-number.webflow.io/generator-faktura) | JavaScript, HTML, CSS |
+| [Tic Tac Toe](https://github.com/jovanovicdzoni36103/tictactoe-js) | Game against a bot that wins, blocks, or plays random. Beatable, and the README explains why. [Live](https://klonovi.webflow.io/x-o-game) | JavaScript |
+| [TheGrowth](https://github.com/jovanovicdzoni36103/thegrowth-website) | Agency landing page with an infinite carousel that loops with no visible jump and counters that fire on scroll. [Live](https://vezba---2-72defa.webflow.io) | Webflow, JavaScript, Swiper.js |
+| [Wedding Invitation](https://github.com/jovanovicdzoni36103/wedding-invitation) | Invitation with an RSVP form, built for a real wedding. [Live](https://pozivnica-za-svadbu-slobodan-ivana.webflow.io) | Webflow, JavaScript |
+| [Guess My Number](https://github.com/jovanovicdzoni36103/guess-my-number) | Course project. Where I started with the DOM. [Live](https://nikola-jovanovic-guess-my-number.webflow.io) | JavaScript |
 
----
+One more that is not here: a portfolio tracker I wrote in Google Apps Script that pulls historical exchange rates from the National Bank of Serbia API and locks them per transaction date, so old records never drift when rates move. It runs on my own finances, so the repo stays private. I can walk through the code in an interview.
 
-## Stack
+## What I'm reading in these repos
 
-![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat&logo=webflow&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+The Webflow projects were laid out visually in Webflow. The JavaScript in each repo is mine, written by hand. I would rather say that plainly than let the repo imply I hand coded the markup.
 
----
+## What I'm learning now
 
-## Currently learning
-- n8n automation and AI agent workflows in production
-- Frontend + AI integration
-- Building things that are actually hard
+I started Angela Yu's 100 Days of Code on 17 August 2026 and I commit every day: [python-100-days-of-code](https://github.com/jovanovicdzoni36103/python-100-days-of-code).
 
----
+After Python I'm working through SQL and Postgres, then APIs and backend basics, then building things with LLMs. I'm following a written plan rather than jumping between tutorials, because jumping between tutorials is exactly how I wasted time before.
 
-📫 nikola.jovanovic.mef@gmail.com
+Things I know I cannot do yet: backend, SQL, React, TypeScript, and working in a team on someone else's codebase. The last one is most of why I want an internship.
 
+## Education
 
----
+BSc Information Technologies, MEF Faculty Belgrade, 2022 to 2026. GPA 8.42 out of 10.
 
-## Selected work in detail
+Thesis: digital transformation of business processes through no-code automation, built as a working case study in n8n.
 
-**Finance Portfolio Tracker** — Google Apps Script calls the National Bank of Serbia API to fetch the historical EUR/USD/RSD rate for each transaction date, then locks those values so past records never drift. Time-based triggers create a new Drive folder on the 1st of every month; drop a statement or receipt into it and the script parses the data and refreshes the central metrics sheet.
+English C1.
 
-**Tic Tac Toe AI** — Minimax search across the full game tree, so the computer genuinely cannot be beaten. Vanilla JavaScript, embedded in Webflow.
+## A bit more
 
-**Website Cost Calculator** — multi-step input, real-time price calculation and a generated project timeline across graphic design, web design, frontend build and testing. Built as a sales tool for agencies.
+Between 2022 and 2023 I ran a short-form video brand called ShortFormCuts, doing the editing, the branding and the analytics. Through university I worked service jobs and did shift planning for a cafe in Belgrade. None of that is software, but it is where I learned to finish things on a deadline that was not mine.
 
-**Wedding Invitation** — event site with an RSVP form wired into an automated email confirmation flow for guests and organisers.
+## Find me
 
----
-
-## Education and certificates
-
-BSc Information Technologies — MEF Faculty Belgrade, 2022–2026, GPA 8.42/10
-
-English C1 — Akademija Oxford, certified 2022
-
-Digital Marketing — Youth Office of the City of Belgrade
-
-Entrepreneurship basics — Development Agency of Serbia, 2021
-
-Courses: JavaScript by Jonas Schmedtmann, Joseph Berry Awwwards Webflow, Cysecor Webflow
-
----
-
-## Also
-
-Alongside my studies I ran the short-form video brand shortformcuts and coordinated weekly shift planning for a Belgrade cafe. Not software, but it is where the work ethic came from.
+[LinkedIn](https://www.linkedin.com/in/webflow-nikola) · [Portfolio](https://dzoni-portfolio.webflow.io) · nikola.jovanovic.mef@gmail.com
