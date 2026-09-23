@@ -10,13 +10,13 @@ I'm open to internship and junior roles in workflow automation, web development 
 
 **CuliFlow, Co-founder (since July 2026).** A small web and automation agency in Serbia. My side is development and automation.
 
-- Two n8n webhook workflows for our own lead handling, live since 7 September 2026: a Gmail send bridge (attachments and threading) and a Google Sheets read/write service. 486 successful runs in their first two weeks.
-- Five client websites built in September 2026, all pre-launch or in client review: a fitness studio in Pančevo, a dry cleaner in Novi Sad, holiday apartments on Kopaonik, a villa and spa at Srebrno jezero, and a B2B caterer in Belgrade. They are static sites (one in Astro) with Google Apps Script backends that write inquiries and orders to Google Sheets and email the business. The repositories stay private until each client launches and agrees to be shown.
+- An AI client-finding system for the agency: four scheduled Claude agents (outreach, lead handling, daily and weekly reports) and two n8n webhook workflows, a Gmail send bridge (attachments and threading) and a Google Sheets read/write service. State lives in Google Sheets and Drive. In September 2026 it sent 343 cold emails; the n8n workflows logged 486 successful runs between 17 and 21 September. It has been paused since 21 September, when the n8n plan's monthly execution limit ran out.
+- Five client websites built in September 2026, all pre-launch or in client review: a fitness studio, a dry cleaner, holiday apartments, a villa and spa, and a B2B caterer. They are static sites (one in Astro) with Google Apps Script backends that write inquiries and orders to Google Sheets and email the business. The repositories stay private until each client launches and agrees to be shown.
 
 **Personal n8n workflows (March to June 2026).**
 
 - Sara, trend research: SerpAPI and Tavily results go to a Groq-hosted LLM that proposes topics, then to Google Sheets, a ClickUp task and a Slack report.
-- AI Gmail auto-responder: a Groq-hosted LLM classifies incoming mail and drafts a reply. Confident answers are sent, spam gets labelled, the rest get a "Needs Review" label, and every run is logged to Sheets with a Slack alert.
+- AI Gmail auto-responder: a Groq-hosted LLM reads incoming mail and either drafts a reply from a Google Sheets knowledge base, which is sent, or marks the email as spam or "Needs Review". Every run is logged to Sheets, with a Slack alert for review items.
 
 Neither workflow is public yet. I can walk through both in an interview.
 
